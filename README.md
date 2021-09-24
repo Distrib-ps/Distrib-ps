@@ -1,6 +1,6 @@
 ## **Yo ! I'am Distrib 👀**
 
-![Distrib-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Distrib-ps&show_icons=true&theme=dracula)](https://github.com/Distrib-ps/)
+[![Distrib-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Distrib-ps&show_icons=true&theme=dracula)](https://github.com/Distrib-ps/)
 
 **Currently working on:**
 
@@ -8,7 +8,7 @@
 
 **Most Used Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Distrib-ps)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Distrib-ps)
 
 
 **Working with:**
