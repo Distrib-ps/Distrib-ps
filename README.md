@@ -8,7 +8,7 @@
 
 **Most Used Languages:**
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Distrib-ps)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Distrib-ps)
 
 
 **Working with:**
